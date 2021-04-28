@@ -1,0 +1,11 @@
+{
+  "name": "HiveInfo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jamesatjaminit/HiveInfo.git",
+  "author": "James Cook <47297250+jamesatjaminit@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}

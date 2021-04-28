@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Anti Cheat",
+        "text":
+            "As has been mentioned already, anti-cheat development is extremely hard work, and there is sadly no ‘quick fix’ to permanently stop cheaters. The reality of being one of the biggest Bedrock servers is that there are several people dedicated to finding workarounds for our specific anti-cheat systems, making it a never-ending uphill battle."
+    },
+    {
+        "name": "Communication Suspensions",
+        "text":
+            "It sounds like you have a communication suspension, these are issued by Microsoft and are not controlled by the Hive. To become unsuspended you will need to say nice things in chat such as \"Good game\" or \"Well played\" and eventually your suspension should lift! Try not to spam or do anything that would harm your reputation further. There is more information here: https://support.playhive.com/why-am-i-muted-or-why-can-nobody-see-what-i-type/#communication-suspensions"
+    }
+]
